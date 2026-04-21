@@ -1,58 +1,75 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Saksham Sharma  
+<div align="center">
 
-### 💻 Full Stack Developer | Cloud Builder | Future Tech Founder  
+# Saksham Sharma
 
-> Turning caffeine into code ☕  
-> Building projects with dangerous confidence.  
-> Future billionaire, current debugger.  
+### Full Stack Developer • Cloud & DevOps • Building Real Systems
 
----
+<p>
+<img src="https://komarev.com/ghpvc/?username=shakshamsharma&style=flat-square" />
+</p>
 
-## 🚀 About Me
-
-- 🔭 Currently building real-world projects that solve actual problems  
-- 🌱 Learning **System Design, AWS, DevOps, AI Integration**  
-- 👯 Open to collaborate on **startups, SaaS, automation tools**  
-- 💬 Ask me about **Web Dev, GitHub, Career Growth, Business Ideas**  
-- ⚡ Fun fact: I fix bugs faster after insulting them  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- Building practical projects focused on backend systems, cloud infrastructure, and scalable apps  
+- Currently learning **System Design, Kubernetes, CI/CD, AWS Architecture**  
+- Interested in **SaaS, automation, AI products, and startup building**  
+- Focused on consistent growth in skills, discipline, and execution  
+- Open to collaboration on serious projects  
+
+---
+
+## Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash" />
+</p>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
+</p>
 
 ### Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
+</p>
+
+### Databases / Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,git,github,vscode,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shakshamsharma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shakshamsharma&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakshamsharma&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakshamsharma&theme=tokyonight&hide_border=true&layout=compact)
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shakshamsharma&theme=github-dark-blue&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshamsharma&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-## 🏆 Current Mission
+## Current Focus
 
 ```text
-Build Skills > Build Income > Build Reputation > Build Freedom
+Backend Engineering
+Cloud Infrastructure
+DevOps Automation
+Real-World Projects
+Career Growth
