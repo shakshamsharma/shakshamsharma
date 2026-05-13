@@ -1,5 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-powered systems, cloud-native applications, and scalable full-stack projects using React, FastAPI, AWS, Docker, and PostgreSQL<br><br>👯 I’m looking to collaborate on AI Engineering, SaaS products, cloud infrastructure, and real-world automation platforms<br><br>🤝 I’m looking for help with advanced system design, DevOps scaling, Kubernetes, and production-grade AI deployment<br><br>🌱 I’m currently learning LLM applications, microservices architecture, Kubernetes, CI/CD pipelines, and scalable AI infrastructure<br><br>💬 Ask me about AI projects, cloud computing, full-stack development, FastAPI, React, AWS, Docker, and building portfolio-ready tech products<br><br>⚡ Fun fact: I started from zero skills and now build complete AI + cloud projects while transforming myself into an AI Systems Engineer
+Hey, I'm Saksham Sharma 👋
+AI & Cloud Developer | Full-Stack Engineer | UI/UX Focused Builder
+
+🚀 Passionate about building AI-powered applications, cloud-native systems, and modern full-stack platforms with clean UI/UX and scalable architecture.
+
+🔭 Currently Working On
+AI-powered SaaS platforms, intelligent automation systems, cloud infrastructure, and modern dashboard-based applications
+
+👯 Looking to Collaborate On
+AI Engineering, Full-Stack SaaS products, Cloud & DevOps projects, and impactful real-world tech solutions
+
+🤝 Looking for Help With
+Kubernetes, scalable system architecture, advanced DevOps workflows, and production-grade AI deployment
+
+🌱 Currently Learning
+LLMs, Microservices Architecture, CI/CD Pipelines, Kubernetes, Advanced AWS Services, and scalable AI infrastructure
+
+💬 Ask Me About
+AI Projects, Cloud Computing, FastAPI, React.js, AWS, Docker, PostgreSQL, API Development, and UI/UX-focused web applications
+
+⚡ Fun Fact
+I went from having zero practical skills to building complete AI + Cloud projects while transforming myself into a future-ready developer
 
 
 ## 🌐 Socials:
