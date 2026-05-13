@@ -60,4 +60,9 @@ Building intelligent systems, scalable cloud applications, and modern AI-powered
 
 🌐 Connect With Me
 <p align="left"> <a href="https://github.com/shakshamsharma" target="_blank"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://www.linkedin.com/in/shakshamm/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shakshamsharma&label=Profile%20Views&color=0e75b6&style=flat" /> </p> ```
+
+Also, “AI • Cloud • Full-Stack Engineer” was weak branding.
+“AI Systems Engineer” sounds more focused and higher-level.
+“Full-stack developer” is overused and generic now.
