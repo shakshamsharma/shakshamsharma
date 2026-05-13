@@ -25,6 +25,52 @@ Building intelligent systems, scalable cloud applications, and modern AI-powered
 </p>
 
 ## ⚙️ AI • Backend • Cloud
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏗 Featured Domains
+
+<p align="left">
+  🚀 AI Engineering <br>
+  ☁️ Cloud Computing <br>
+  ⚡ Backend Development <br>
+  🤖 Computer Vision <br>
+  🔥 DevOps & Deployment <br>
+  🌐 Modern Web Applications
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,postgres,docker,aws,kubernetes" />
 </p>
@@ -35,28 +81,3 @@ Building intelligent systems, scalable cloud applications, and modern AI-powered
 </p>
 
 ---
-
-# 🧠 Current Focus
-
-```yaml
-- AI-Powered SaaS Applications
-- LLM Integrations & Automation
-- Cloud Infrastructure & Deployment
-- Scalable Backend Architectures
-- Full-Stack AI Systems
-
-
-📊 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" /> </p>
-
-🏗 Featured Domains
-AI Engineering
-Cloud Computing
-Backend Development
-Computer Vision
-DevOps & Deployment
-Modern Web Applications
-
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" /> </p> ```
