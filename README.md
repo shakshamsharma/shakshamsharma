@@ -1,91 +1,62 @@
-<div align="center">
+# Hi there, I'm Saksham Sharma 👋
 
-# Saksham Sharma
+### 🚀 AI • Cloud • Full-Stack Engineer
 
-### Full Stack Developer • Cloud Engineer • DevOps Builder
-
-<img src="https://komarev.com/ghpvc/?username=shakshamsharma&style=for-the-badge&color=0e75b6"/>
-
-</div>
+Building intelligent systems, scalable cloud applications, and modern AI-powered products with a focus on real-world impact.
 
 ---
 
-## About Me
+## 💡 About Me
 
-Building scalable projects and practical systems.  
-Focused on backend engineering, cloud, and automation.  
-Learning every day. Shipping consistently.  
-Interested in startups, SaaS, AI tools, and growth.
+- 🧠 AI & Cloud Developer passionate about intelligent automation and scalable architectures
+- ☁️ Building production-ready applications using cloud-native and modern DevOps workflows
+- 🤖 Interested in AI Engineering, LLM Applications, Computer Vision, and SaaS Platforms
+- ⚡ Strong focus on backend systems, APIs, performance optimization, and deployment pipelines
+- 📈 Currently improving system design, cloud infrastructure, and advanced AI integration skills
+- 🎯 Goal: Build high-impact AI products and scalable tech businesses
 
 ---
 
-## Tech Stack
+# 🛠 Tech Arsenal
 
-### Languages
+## 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,sql,html,css" />
 </p>
 
-### Frontend
+## ⚙️ AI • Backend • Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,postgres,docker,aws,kubernetes" />
 </p>
 
-### Backend
+## 🚀 DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" />
-</p>
-
-### Cloud / DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
-</p>
-
-### Database / Tools
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,jenkins,postman,figma,vscode" />
 </p>
 
 ---
 
-## GitHub Analytics
+# 🧠 Current Focus
 
-<div align="center">
+```yaml
+- AI-Powered SaaS Applications
+- LLM Integrations & Automation
+- Cloud Infrastructure & Deployment
+- Scalable Backend Architectures
+- Full-Stack AI Systems
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shakshamsharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shakshamsharma&theme=tokyonight&hide_border=true" />
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" /> </p>
 
-<br><br>
+🏗 Featured Domains
+AI Engineering
+Cloud Computing
+Backend Development
+Computer Vision
+DevOps & Deployment
+Modern Web Applications
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakshamsharma&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakshamsharma&theme=tokyonight" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakshamsharma&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shakshamm/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sakshamsharmaa15@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" /> </p> ```
