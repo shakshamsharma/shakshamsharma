@@ -1,21 +1,20 @@
 # Hey, I'm Saksham Sharma 👋
 
-### AI & Cloud Developer | Full-Stack Engineer | UI/UX Focused Builder
+## AI & Cloud Developer | Full-Stack Engineer | UI/UX Focused Builder
 
-<sub>🚀 Passionate about building AI-powered applications, cloud-native systems, and scalable full-stack platforms with clean UI/UX and modern architecture.</sub>
+### 🚀 Passionate about building AI-powered applications, cloud-native systems, scalable SaaS platforms, and modern full-stack experiences with clean UI/UX and efficient architecture.
 
-<sub>🔭 Currently working on AI-powered SaaS platforms, intelligent automation systems, cloud infrastructure, and dashboard-based applications</sub>
+* 🔭 Currently working on AI-powered SaaS platforms, intelligent automation systems, cloud infrastructure, and modern dashboard-based applications
 
-<sub>👯 Looking to collaborate on AI Engineering, Full-Stack SaaS products, Cloud & DevOps projects, and impactful tech solutions</sub>
+* 👯 Looking to collaborate on AI Engineering, Full-Stack SaaS products, Cloud & DevOps projects, and impactful real-world tech solutions
 
-<sub>🤝 Looking for help with Kubernetes, scalable system architecture, advanced DevOps workflows, and production-grade AI deployment</sub>
+* 🤝 Looking for help with Kubernetes, scalable system architecture, advanced DevOps workflows, and production-grade AI deployment
 
-<sub>🌱 Currently learning LLMs, Microservices Architecture, CI/CD Pipelines, Kubernetes, Advanced AWS Services, and scalable AI infrastructure</sub>
+* 🌱 Currently learning LLMs, Microservices Architecture, CI/CD Pipelines, Kubernetes, Advanced AWS Services, and scalable AI infrastructure
 
-<sub>💬 Ask me about AI Projects, Cloud Computing, FastAPI, React.js, AWS, Docker, PostgreSQL, APIs, and UI/UX-focused web apps</sub>
+* 💬 Ask me about AI Projects, Cloud Computing, FastAPI, React.js, AWS, Docker, PostgreSQL, APIs, scalable backend systems, and UI/UX-focused web applications
 
-<sub>⚡ Fun fact: I transformed from having zero practical skills to building complete AI + Cloud projects and modern developer portfolios</sub>
-
+* ⚡ Fun fact: I transformed from having zero practical skills into building complete AI + Cloud projects, modern developer portfolios, and real-world full-stack systems
 
 
 ## 🌐 Socials:
