@@ -14,7 +14,7 @@
 
 * 💬 Ask me about AI Projects, Cloud Computing, FastAPI, React.js, AWS, Docker, PostgreSQL, APIs, scalable backend systems, and UI/UX-focused web applications
 
-* ⚡ Fun fact: I transformed from having zero practical skills into building complete AI + Cloud projects, modern developer portfolios, and real-world full-stack systems
+* ⚡ Fun fact: I transformed from having zero practical skills into building complete AI + Cloud projects, modern developer portfolios, and real-world Backend systems
 
 
 # 💻 Tech Stack:
