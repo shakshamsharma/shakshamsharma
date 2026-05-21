@@ -1,6 +1,6 @@
 # Hey, I'm Saksham Sharma 👋
 
-## AI & Cloud Developer | Full-Stack Engineer | UI/UX Focused Builder
+## AI & Cloud Developer | Backend Engineer | UI/UX Focused Builder
 
 ### 🚀 Passionate about building AI-powered applications, cloud-native systems, scalable SaaS platforms, and modern full-stack experiences with clean UI/UX and efficient architecture.
 
