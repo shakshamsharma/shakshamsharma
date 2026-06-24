@@ -47,10 +47,10 @@ I started with very little practical experience and gradually built cloud-native
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge\&logo=cisco\&logoColor=white)
 
 ### 🐍 Backend Development
 
@@ -62,6 +62,7 @@ I started with very little practical experience and gradually built cloud-native
 ### 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-blue?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
 ### 🛠 Tools
@@ -72,6 +73,7 @@ I started with very little practical experience and gradually built cloud-native
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharmaaa/)
@@ -80,4 +82,3 @@ I started with very little practical experience and gradually built cloud-native
 
 
 ## ⭐ Always Learning, Building, and Exploring Cloud Technologies
-
