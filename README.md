@@ -4,33 +4,42 @@ Cloud & DevOps Engineer | Python Backend Developer | Building Cloud-Native & AI-
 🚀 Computer Science Engineer focused on Cloud Computing, DevOps, and Backend Development. I enjoy building scalable cloud infrastructure, automating workflows, and developing reliable backend applications that solve real-world problems.
 
 🔭 Currently Working On
+
 Cloud-native applications and automation systems
 AI-powered DevOps and incident management solutions
 Backend systems using Python and FastAPI
 Infrastructure automation and CI/CD workflows
+
 👯 Looking to Collaborate On
+
 Cloud & DevOps projects
 Python backend applications
 Infrastructure automation tools
 Open-source projects related to Cloud, AI, and Developer Tools
+
 🌱 Currently Learning
+
 Advanced AWS Services
 Terraform and Infrastructure as Code
 Kubernetes and Container Orchestration
 Microservices Architecture
 Production-grade DevOps workflows and AI systems
+
 💬 Ask Me About
+
 AWS & Cloud Computing
 Python & FastAPI
 Linux & Networking Fundamentals
 Docker & CI/CD
 REST APIs & Backend Development
 AI-powered applications and automation
+
 ⚡ Fun Fact
 
 I started with very little practical experience and gradually built cloud-native, distributed, and AI-powered systems through hands-on projects and continuous learning.
 
 💻 Tech Stack
+
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
