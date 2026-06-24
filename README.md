@@ -1,43 +1,44 @@
-Hey, I'm Saksham Sharma 👋
+# Hey, I'm Saksham Sharma 👋
 
-Cloud & DevOps Engineer | Python Backend Developer | Building Cloud-Native & AI-Powered Systems
+### ☁️ Cloud & DevOps Engineer | 🐍 Python Backend Developer | 🤖 Building Cloud-Native & AI-Powered Systems
 
-🚀 Computer Science Engineer focused on Cloud Computing, DevOps, and Backend Development. I enjoy building scalable cloud infrastructure, automating workflows, and developing reliable backend applications that solve real-world problems.
+🚀 **Computer Science Engineer** focused on **Cloud Computing, DevOps, and Backend Development**. I enjoy building scalable cloud infrastructure, automating workflows, and developing reliable backend applications that solve real-world problems.
 
-🔭 Currently Working On
+## 🔭 Currently Working On
 
-Cloud-native applications and automation systems
-AI-powered DevOps and incident management solutions
-Backend systems using Python and FastAPI
-Infrastructure automation and CI/CD workflows
+* Cloud-native applications and automation systems
+* AI-powered DevOps and incident management solutions
+* Backend systems using Python and FastAPI
+* Infrastructure automation and CI/CD workflows
 
-👯 Looking to Collaborate On
+## 👯 Looking to Collaborate On
 
-Cloud & DevOps projects
-Python backend applications
-Infrastructure automation tools
-Open-source projects related to Cloud, AI, and Developer Tools
+* Cloud & DevOps projects
+* Python backend applications
+* Infrastructure automation tools
+* Open-source projects related to Cloud, AI, and Developer Tools
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-Advanced AWS Services
-Terraform and Infrastructure as Code
-Kubernetes and Container Orchestration
-Microservices Architecture
-Production-grade DevOps workflows and AI systems
+* Advanced AWS Services
+* Terraform and Infrastructure as Code
+* Kubernetes and Container Orchestration
+* Microservices Architecture
+* Production-grade DevOps workflows and AI systems
 
-💬 Ask Me About
+## 💬 Ask Me About
 
-AWS & Cloud Computing
-Python & FastAPI
-Linux & Networking Fundamentals
-Docker & CI/CD
-REST APIs & Backend Development
-AI-powered applications and automation
+* AWS & Cloud Computing
+* Python & FastAPI
+* Linux & Networking Fundamentals
+* Docker & CI/CD
+* REST APIs & Backend Development
+* AI-powered applications and automation
 
-⚡ Fun Fact
+## ⚡ Fun Fact
 
 I started with very little practical experience and gradually built cloud-native, distributed, and AI-powered systems through hands-on projects and continuous learning.
+
 
 💻 Tech Stack
 
@@ -68,3 +69,12 @@ I started with very little practical experience and gradually built cloud-native
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+
+🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharmaaa/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsharmaa15@gmail.com))
+
+⭐ Always learning, building, and exploring cloud technologies.
