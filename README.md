@@ -40,7 +40,8 @@
 I started with very little practical experience and gradually built cloud-native, distributed, and AI-powered systems through hands-on projects and continuous learning.
 
 
-💻 Tech Stack
+
+## 💻 Tech Stack
 
 ### ☁️ Cloud & DevOps
 
@@ -71,10 +72,12 @@ I started with very little practical experience and gradually built cloud-native
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharmaaa/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsharmaa15@gmail.com))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsharmaa15@gmail.com)
 
-⭐ Always learning, building, and exploring cloud technologies.
+
+## ⭐ Always Learning, Building, and Exploring Cloud Technologies
+
