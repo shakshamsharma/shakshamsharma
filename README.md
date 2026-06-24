@@ -1,29 +1,74 @@
 # Hey, I'm Saksham Sharma 👋
 
-## AI & Cloud Developer | Backend Engineer | UI/UX Focused Builder
+## Cloud & DevOps Engineer | Python Backend Developer | Building Cloud-Native & AI-Powered Systems
 
-### 🚀 Passionate about building AI-powered applications, cloud-native systems, scalable SaaS platforms, and modern full-stack experiences with clean UI/UX and efficient architecture.
+🚀 Computer Science Engineer focused on Cloud Computing, DevOps, and Backend Development. I enjoy building scalable cloud infrastructure, automating workflows, and developing reliable backend applications that solve real-world problems.
 
-* 🔭 Currently working on AI-powered SaaS platforms, intelligent automation systems, cloud infrastructure, and modern dashboard-based applications
+### 🔭 Currently Working On
 
-* 👯 Looking to collaborate on AI Engineering, Full-Stack SaaS products, Cloud & DevOps projects, and impactful real-world tech solutions
+* Cloud-native applications and automation systems
+* AI-powered DevOps and incident management solutions
+* Backend systems using Python and FastAPI
+* Infrastructure automation and CI/CD workflows
 
-* 🤝 Looking for help with Kubernetes, scalable system architecture, advanced DevOps workflows, and production-grade AI deployment
+### 👯 Looking to Collaborate On
 
-* 🌱 Currently learning LLMs, Microservices Architecture, CI/CD Pipelines, Kubernetes, Advanced AWS Services, and scalable AI infrastructure
+* Cloud & DevOps projects
+* Python backend applications
+* Infrastructure automation tools
+* Open-source projects related to Cloud, AI, and Developer Tools
 
-* 💬 Ask me about AI Projects, Cloud Computing, FastAPI, React.js, AWS, Docker, PostgreSQL, APIs, scalable backend systems, and UI/UX-focused web applications
+### 🌱 Currently Learning
 
-* ⚡ Fun fact: I transformed from having zero practical skills into building complete AI + Cloud projects, modern developer portfolios, and real-world Backend systems
+* Advanced AWS Services
+* Terraform and Infrastructure as Code
+* Kubernetes and Container Orchestration
+* Microservices Architecture
+* Production-grade DevOps workflows and AI systems
 
+### 💬 Ask Me About
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+* AWS & Cloud Computing
+* Python & FastAPI
+* Linux & Networking Fundamentals
+* Docker & CI/CD
+* REST APIs & Backend Development
+* AI-powered applications and automation
 
+### ⚡ Fun Fact
 
-## 🌐 Socials:
+I started with very little practical experience and gradually built cloud-native, distributed, and AI-powered systems through hands-on projects and continuous learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamsharmaaa/)
+# 💻 Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamsharmaa15@gmail.com)
+### ☁️ Cloud & DevOps
 
+AWS • Docker • GitHub Actions • CI/CD • Terraform • Linux • Kubernetes (Basics)
+
+### 🐍 Backend Development
+
+Python • FastAPI • REST APIs • PostgreSQL • SQL
+
+### 🤖 AI & Automation
+
+OpenAI API • RAG • Prompt Engineering • n8n
+
+### 🛠 Tools
+
+Git • GitHub • Postman • Figma
+
+# 🚀 Featured Projects
+
+🔹 IncidentPilot AI – AI-Powered DevOps Incident Assistant
+
+🔹 CloudShareX – Distributed File Sharing Platform
+
+🔹 SmartCampus – AI Attendance Recognition System
+
+# 🌐 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/sakshamsharmaaa](http://www.linkedin.com/in/sakshamsharmaaa)
+
+Email: [sakshamsharmaa15@gmail.com](mailto:sakshamsharmaa15@gmail.com)
+
+⭐ Always learning, building, and exploring cloud technologies.
